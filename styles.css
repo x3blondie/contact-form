@@ -7,9 +7,6 @@
   --grey-900: hsl(187, 24%, 22%);
 }
 
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 200 to 800
-
 .karla-font {
   font-family: "Karla", sans-serif;
   font-optical-sizing: auto;
@@ -35,4 +32,13 @@ button.btn.btn-primary {
   background-color: var(--green-600);
   border: 0;
   width: 100%;
+}
+
+/* frontend mentor */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
